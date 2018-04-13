@@ -19,6 +19,7 @@
 
 * [Eris Solidity Tutorials](https://docs.erisindustries.com/tutorials/solidity/solidity-1/) - Tutorials | Solidity 1: The Five Types Model.
 * [Writing Upgradable Contracts](https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88#.y8mx9i998) - Writing Upgradable Contracts in Solidity.
+* [Programming Community Curated Resources for learning Solidity](https://hackr.io/tutorials/learn-solidity) - Top Recommended Resources.
 
 ## Community
 
